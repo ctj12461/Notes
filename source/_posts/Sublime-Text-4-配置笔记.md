@@ -338,3 +338,50 @@ int main() {
     }
 ]
 ```
+
+### 编译系统
+#### 配置
+`Sublime Text` 对每一种常见的语音都提供了默认的编译系统，但是这些编译系统不一定适合我们。
+我们可以通过一些简单的配置完成一个自定义编译系统的创建。接下来以配置 `C++` 单文件运行环境为例。
+
+选择菜单上的 `工具-编译系统-新建编译系统`，`Sublime Text` 会新建一个配置文件，可以先参考
+我的配置，再修改：
+```json
+{
+    // 文件编码
+    "encoding": "utf-8",
+    // 工作目录
+    "working_dir": "$file_path",
+    // 正则表达式匹配文件
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    // 文件类型，用于选择指定的文件进行编译，后缀可以改成任意语言的文件的后缀
+    "selector": "source.cpp",
+    "variants": [
+        // 仅编译
+        {
+            "name": "Build",
+            "shell_cmd": "g++ -Wall -std=c++17 \"$file\" -o \"$file_base_name\"" 
+        },
+        // 编译运行，从 project.in 中获得输入，并输出到 project.out 中
+        {
+            "name": "Run",
+            "shell_cmd": "g++ -Wall -std=c++17 \"$file\" -o \"$file_base_name\" && \"${file_path}/${file_base_name}\" < project.in > project.out" 
+        },
+        // 编译后在终端中运行
+        {
+            "name": "Run In Terminal",
+            "shell_cmd": "g++ -Wall -std=c++17 \"$file\" -o \"$file_base_name\" && start cmd /c \"\"${file_path}/${file_base_name}\" & pause \""
+        },
+        // 在终端中调试
+        {
+            "name": "Debug",
+            "shell_cmd": "g++ -Wall -g -std=c++17 \"$file\" -o \"$file_base_name\" && start cmd /c \"gdb \"${file_path}/${file_base_name}\" & pause \""
+        }
+    ] 
+}
+```
+
+#### 运行
+默认按 `Ctrl + B` 按照上一次的选项编译，按 `Ctrl + Shift + B` 选择一个选项编译。
+
+注意 `Sublime Text` 的输出窗口是不能输入的，如果要输入数据，可以使用重定向或终端运行。
