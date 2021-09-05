@@ -456,7 +456,7 @@ font:
   # Font settings for posts (.post-body).
   posts:
     external: true
-    family: "OPPOSans, WenQuanYi Micro Hei, sans-serif"
+    family:
 
   # Font settings for <code> and code blocks.
   codes:
