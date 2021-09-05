@@ -139,8 +139,9 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  #GitHub: https://github.com/yourname || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  GitHub: https://github.com/ctj12461 || fab fa-github
+  E-Mail: mailto:ctj12461@163.com || fa fa-envelope
+  RSS: /atom.xml || fa fa-rss
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -252,7 +253,10 @@ post_meta:
 # Dependencies: https://github.com/next-theme/hexo-word-counter
 symbols_count_time:
   separated_meta: true
-  item_text_total: false
+  item_text_post: true
+  item_text_total: true
+  awl: 4
+  wpm: 275
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: true
@@ -452,12 +456,12 @@ font:
   # Font settings for posts (.post-body).
   posts:
     external: true
-    family:
+    family: "OPPOSans, WenQuanYi Micro Hei, sans-serif"
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: "Monaco, Consolas, monospaces"
 
 
 # ---------------------------------------------------------------

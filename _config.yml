@@ -106,3 +106,10 @@ deploy:
   repo: https://github.com/ctj12461/Notes.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+symbol_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: false
+  exclude_codeblock: false
