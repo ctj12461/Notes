@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"datemp"
+			],
+			[
+				"un",
+				"unordered_map"
+			],
+			[
+				"uno",
+				"unordered_set"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"unor",
+				"unordered_set"
+			],
+			[
+				"ev",
+				"evidences"
+			],
+			[
+				"push",
+				"pushdown"
+			],
+			[
+				"oi",
+				"oifast"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"wal",
+				"walkCircle"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"la",
+				"last2"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"wa",
+				"walkCircle"
+			],
+			[
+				"w",
+				"walkCircle"
+			],
+			[
+				"walk",
+				"walkTree"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"R",
+				"Range"
+			],
+			[
+				"Re",
+				"Rectangle"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"pm",
+				"pmin"
+			],
+			[
+				"push_",
+				"push_front"
+			],
+			[
+				"P",
+				"Point"
+			],
+			[
+				"se",
+				"setOpposite"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"sub",
+				"subImplOpposite"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"max",
+				"maxs"
+			],
+			[
+				"su",
+				"sumdis"
+			],
+			[
+				"di",
+				"dis"
+			],
+			[
+				"Ci",
+				"City"
+			],
+			[
+				"D",
+				"DEBUG"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"ci",
+				"continue"
+			],
+			[
+				"in",
+				"invaild"
+			],
+			[
+				"dfs",
+				"dfs2"
+			],
+			[
+				"bg",
+				"beginend"
+			],
+			[
+				"gr",
+				"graph"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"df",
+				"dfs2"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"do",
+				"dog"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"Op",
+				"OperatorType"
+			],
+			[
+				"O",
+				"OperatorType"
+			],
+			[
+				"op",
+				"OperatorType"
+			],
+			[
+				"mi",
+				"midexpr"
+			],
+			[
+				"pro",
+				"priority"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"so",
+				"solve"
+			],
+			[
+				"t",
+				"tuple"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"gcd",
+				"exgcd"
+			],
+			[
+				"exg",
+				"exgcd"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ba",
+				"back_inserter"
+			],
+			[
+				"beg",
+				"beginend"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"Has",
+				"HashSet"
+			],
+			[
+				"cls",
+				"class"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Run In Terminal"
+				]
+			],
+			[
+				"Packages/User/C++ for Sublime Text.sublime-build",
+				"Run In Terminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Run In Terminal"
+				],
+				[
+					"Packages/User/C++ for Sublime Text.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/User/C++ for Sublime Text.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: oi"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"pa co in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa co inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 611.0,
+		"history":
+		[
+			"exit",
+			"exit()",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Notes"
+	],
+	"file_history":
+	[
+		"/C/Users/Justin Chen/Downloads/P1039_1.in",
+		"/C/Users/Justin Chen/Downloads/P1039_1.out",
+		"/C/Users/Justin Chen/Desktop/NOIP2021 国庆集训 B 组 Day5（陈霆钧）/std/express.cpp",
+		"/C/Users/Justin Chen/Desktop/NOIP2021 国庆集训 B 组 Day5（陈霆钧）/std/park.cpp",
+		"/C/Users/Justin Chen/Desktop/NOIP2021 国庆集训 B 组 Day5（陈霆钧）/std/tower.cpp",
+		"/C/Users/Justin Chen/Desktop/NOIP2021 国庆集训 B 组 Day5（陈霆钧）/std/ksum.cpp",
+		"/D/Projects/OI-Codes/project.cpp",
+		"/C/Users/Justin Chen/Desktop/prog/prog.py",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO472A6C0C/tower20.in",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO472080EB/tower20.out",
+		"/D/Projects/OI-Codes/project.out",
+		"/D/Projects/OI-Codes/project.in",
+		"/C/Users/Justin Chen/Downloads/P5022_17.in",
+		"/C/Users/Justin Chen/Downloads/P5022_17.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P5022-旅行.cpp",
+		"/C/Users/Justin Chen/Downloads/P5022_18.out",
+		"/C/Users/Justin Chen/Downloads/P5022_18.in",
+		"/C/Users/Justin Chen/Desktop/tmp.html",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO411414CD/block2.out",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO411B94CD/block2.in",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO490BA76C/subset3.in",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO4908485C/subset3.out",
+		"/D/Projects/OI-Utility/Algorithms/Math/Matrix.hpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1034-矩形覆盖.cpp",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO45BD7A52/fare.out",
+		"/C/Users/Justin Chen/AppData/Local/Temp/7zO45B20A52/fare.in",
+		"/D/Projects/OI-Utility/DataStructures/Tree/SegmentTree.hpp",
+		"/D/Projects/OI-Codes/bruteForce.cpp",
+		"/D/Projects/OI-Codes/generator.cpp",
+		"/D/Projects/OI-Codes/Contest/A.cpp",
+		"/D/Programs/CounterStrikeSource/cstrike/cfg/config.cfg",
+		"/C/Users/Justin Chen/Downloads/P1549_5.out",
+		"/C/Users/Justin Chen/Downloads/P1549_5.in",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1549-棋盘问题.cpp",
+		"/C/Users/Justin Chen/Downloads/P1549_2.in",
+		"/C/Users/Justin Chen/Downloads/P1549_2.out",
+		"/D/Projects/OI-Codes/draft.md",
+		"/C/Users/Justin Chen/Desktop/NOIP2021 国庆集训 A 组 Day7/Solution.md",
+		"/C/Users/Justin Chen/Desktop/新建文件夹/Solution.md",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1514-引水入城.cpp",
+		"/C/Users/Justin Chen/Downloads/P1514_2.out",
+		"/C/Users/Justin Chen/Downloads/P1514_2.in",
+		"/D/Projects/OI-Codes/project.py",
+		"/C/Users/Justin Chen/Downloads/P1066_9.out",
+		"/C/Users/Justin Chen/Downloads/P1066_9.in",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1066-2^k进制数.py",
+		"/D/Projects/OI-Codes/tmp.cpp",
+		"/C/Users/Justin Chen/Downloads/P1601_2.in",
+		"/C/Users/Justin Chen/Downloads/P1601_2.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1027-Car 的旅行路线.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1081-开车旅行.cpp",
+		"/C/Users/Justin Chen/Downloads/P1092_9.in",
+		"/C/Users/Justin Chen/Downloads/P1092_9.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1092-虫食算.cpp",
+		"/D/Programs/Sublime Text/Data/Packages/User/C++ for Sublime Text.sublime-build",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/bits/move.h",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/utility",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1099-树网的核.cpp",
+		"/C/Users/Justin Chen/Downloads/P1099_1.in",
+		"/C/Users/Justin Chen/Downloads/P1099_1.out",
+		"/C/Users/Justin Chen/Downloads/P1099_3.in",
+		"/C/Users/Justin Chen/Downloads/P1099_3.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1006-传纸条.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P6216-回文匹配.cpp",
+		"/D/Projects/OI-Codes/Storage/Codeforces/471D-MUH and Cube Walls.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/11019-Matrix Matcher.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/12467-Secret Word.cpp",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/coroutine",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32/32/bits/stdc++.h",
+		"/D/Projects/OI-Codes/Storage/UVa/11452-Dancing the Cheeky-Cheeky.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/UVA11452-Dancing the Cheeky-Cheeky.cpp",
+		"/D/Projects/OI-Codes/tmp.html",
+		"/D/Projects/OI-Codes/Storage/UVa/315-Network.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/1714-Keyboarding.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/1395-Slim Span.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/756-Biorhythms.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/658-It's not a Bug, it's a Feature!.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/437-The Tower of Babylon.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/11294-Wedding.cpp",
+		"/D/Projects/OI-Codes/Storage/UVa/11022-String Factoring.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P3294-背单词.cpp",
+		"/C/Users/Justin Chen/Downloads/P3065_4.in",
+		"/C/Users/Justin Chen/Downloads/P3065_4.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P3065-First! G.cpp",
+		"/C/Users/Justin Chen/Downloads/P2414_1.in",
+		"/C/Users/Justin Chen/Downloads/P2414_1.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P2414-阿狸的打字机.cpp",
+		"/E/std/wzadx.cpp",
+		"/D/Programs/CounterStrikeSource/工具/备份/rev.ini",
+		"/D/Programs/CounterStrikeSource/rename.bat",
+		"/D/Programs/CounterStrikeSource/rev.ini",
+		"/C/Users/Justin Chen/Desktop/clyz-chentingjun/zoo.cpp",
+		"/C/Users/Justin Chen/Desktop/clyz-chentingjun/wzadx.cpp",
+		"/C/Users/Justin Chen/Desktop/clyz-chentingjun/sequence.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1175-表达式的转换.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4054-计数问题.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4185-MooTube G.cpp",
+		"/C/Users/Justin Chen/Downloads/P3045_3.in",
+		"/C/Users/Justin Chen/Downloads/P3045_3.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4195 【模板】exBSGS.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4884-多少个1？.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P3306-随机数生成器.cpp",
+		"/C/Users/Justin Chen/Downloads/P3306_1.out",
+		"/C/Users/Justin Chen/Downloads/P3306_1.in",
+		"/C/Users/Justin Chen/Downloads/P4195_11.in",
+		"/C/Users/Justin Chen/Downloads/P4195_11.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P3846-可爱的质数&【模板】BSGS.cpp",
+		"/D/Projects/OI-Codes/Storage/LibreOJ/10237-礼物.cpp",
+		"/D/Projects/OI-Utility/Algorithms/Math/BSGS.cpp",
+		"/D/Projects/OI-Codes/Storage/LibreOJ/2721-屠龙勇士.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4774-屠龙勇士.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4777-【模板】扩展中国剩余定理.cpp",
+		"/D/Programs/TDM-GCC/x86_64-w64-mingw32/include/unistd.h",
+		"/C/Users/Justin Chen/Downloads/dragon1.in",
+		"/C/Users/Justin Chen/Downloads/formater.cpp",
+		"/D/Programs/TDM-GCC/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/cmath",
+		"/C/Users/Justin Chen/Downloads/P4777_15.out",
+		"/C/Users/Justin Chen/Downloads/P4777_15.in",
+		"/D/Projects/OI-Codes/Storage/Luogu/P3951-小凯的疑惑&买不到的数目.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P2441-角色属性树.cpp",
+		"/C/Users/Justin Chen/Downloads/P1064_3.in",
+		"/C/Users/Justin Chen/Downloads/P1064_3.out",
+		"/D/Projects/OI-Codes/Storage/Luogu/P1064-金明的预算方案.cpp",
+		"/D/Projects/OI-Codes/Storage/Luogu/P2607-骑士.cpp",
+		"/D/Programs/Sublime Text/Data/Packages/Transparency/SublimeTextTrans.sublime-settings",
+		"/D/Programs/Sublime Text/Data/Packages/User/SublimeTextTrans.sublime-settings",
+		"/D/Projects/OI-Codes/Storage/Luogu/P4516-潜入行动.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 30.4
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/User/C++ for Sublime Text.sublime-build",
+	"project": "Notes.sublime-project",
+	"replace":
+	{
+		"height": 44.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"柠檬",
+				"Storage\\Luogu\\P5504-柠檬.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 504.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\OI-Codes\\Notes.sublime-workspace"
+			]
+		],
+		"width": 389.6
+	},
+	"select_symbol":
+	{
+		"height": 307.0,
+		"last_filter": "parse",
+		"selected_items":
+		[
+			[
+				"parse",
+				"parse"
+			],
+			[
+				"exBs",
+				"exBsgs"
+			],
+			[
+				"triple",
+				"triple"
+			],
+			[
+				"tri",
+				"triple"
+			],
+			[
+				"BSGS",
+				"BSGS"
+			],
+			[
+				"exgcd",
+				"exGCD"
+			],
+			[
+				"Bsgs",
+				"bsgs"
+			],
+			[
+				"exCr",
+				"exCrt"
+			],
+			[
+				"exC",
+				"exCrt"
+			],
+			[
+				"excrt",
+				"exCrt"
+			],
+			[
+				"exG",
+				"exGCD"
+			],
+			[
+				"gcd",
+				"GCD"
+			],
+			[
+				"DFS2",
+				"DFS2"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
