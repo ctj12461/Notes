@@ -81,7 +81,7 @@ bool check(int x, int y, int a) {
 }
 
 bool check(int a) {
-	/** 这里传入边长，根据边长判断 */
+    /** 这里传入边长，根据边长判断 */
     int r = (a + 1) / 2;
     if (a % 2) {
         for (int i = r; i + r - 1 <= n; ++i)
@@ -99,7 +99,7 @@ bool check(int a) {
 }
 
 void preprocess() {
-	/** 求二维哈希 */
+    /** 求二维哈希 */
     power1[0] = power2[0] = 1;
     for (int i = 1; i <= max(n, m); ++i) {
         power1[i] = power1[i - 1] * base1 % mod;
@@ -121,7 +121,7 @@ void preprocess() {
 }
 
 void divide() {
-	/** 对不同的位置情况分别二分 */
+    /** 对不同的位置情况分别二分 */
     int l = 1, r = min(n, m) / 2 + 1, ans1 = -1, ans2 = -1;
     while (l <= r) {
         int mid = (l + r) / 2;
